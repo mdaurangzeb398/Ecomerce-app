@@ -1,0 +1,11 @@
+/ecommerce-dropship/
+│
+├── index.html         ← Homepage (main design)
+├── style.css          ← CSS styling
+├── script.js          ← JavaScript interactivity
+├── /assets/           ← For images like logos and product photos
+├── /categories/       ← Folder for category-specific pages
+│   ├── men.html
+│   ├── women.html
+│   ├── electronics.html
+│   └── beauty.html
